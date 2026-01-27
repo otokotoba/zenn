@@ -1,0 +1,6 @@
+{
+  "name": "zenn",
+  "dependencies": {
+    "zenn-cli": "^0.4.2"
+  }
+}
