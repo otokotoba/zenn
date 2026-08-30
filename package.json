@@ -8,7 +8,8 @@
     "preview:zenn": "zenn preview --open",
     "preview:qiita": "qiita preview",
     "watch": "node scripts/watch.js",
-    "dev": "pnpm run '/^preview:.*|^watch/'"
+    "dev": "pnpm run '/^preview:.*|^watch/'",
+    "publish": "node scripts/publish.js"
   },
   "keywords": [],
   "author": "",
